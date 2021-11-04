@@ -8,8 +8,6 @@ There is right now **tons** of hype around this. Can't really tell if it will go
 
 
 
-
-
 ## Links
 
 - https://decentraland.org/
