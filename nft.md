@@ -2,6 +2,12 @@
 
 
 
+## Where are they hosted
+
+It depends. But it can be hosted here: https://ipfs.io/
+
+
+
 
 
 ## Links
