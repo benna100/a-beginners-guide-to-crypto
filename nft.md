@@ -36,6 +36,8 @@ The token proves that you own the piece of art and only you can own that piece o
 
 
 
+
+
 ## The technology behind
 
 
