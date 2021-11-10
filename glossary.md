@@ -6,5 +6,10 @@
 - Bridging - sending polygon from etherium https://bridge.umbria.network/
 - Shill - Promoting another crypto project
 - FUD - Fear uncertainty doubt
-- 
+- DeFi - Finansielle værktøjer på en blockchain
+  - Valuta veksling
+  - Pantebrev
+- Swap - Bytte tokens
+- Liquidity pool - crypto lager
+- Layer one - Laver sit eget netværk. Layer two lægger sig op ad et andet netværk
 

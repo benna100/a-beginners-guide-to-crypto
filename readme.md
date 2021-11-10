@@ -22,7 +22,7 @@ And oh boy what a rabbit hole!
 
 Learning about crypto is like arriving at a foreign station in a country who's culture and language you have absolutely no idea about
 
-Lucky 
+Hopefully this guide will help clear things up a bit :) 
 
-
+Let's begin with an overview of what crypto is 👉 
 

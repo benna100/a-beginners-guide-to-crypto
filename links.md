@@ -22,6 +22,20 @@
 - https://learn.zapper.fi/articles/what-is-defi
 - https://infura.io/
 - https://openzeppelin.com/
+- https://uniswap.org/
+- https://awesomeopensource.com/projects/generative-art
+- https://github.com/HashLips/generative-art-opensource
+- https://tokenjenny.one/
+- https://viperswap.one/#/swap
+
+
+
+## Develop smart contracts
+
+- https://web3js.readthedocs.io/en/v1.5.2/
+
+- https://www.trufflesuite.com/
+- https://remix.ethereum.org/
 
 
 
