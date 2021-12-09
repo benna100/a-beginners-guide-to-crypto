@@ -38,7 +38,7 @@ Swaping is kind of what the name sound like. It allows users to exchange one cry
 
 
 
-## Tier 0
+## Tier 0 or is it called level one?
 
 
 
