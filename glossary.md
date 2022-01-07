@@ -12,4 +12,5 @@
 - Swap - Bytte tokens
 - Liquidity pool - crypto lager
 - Layer one - Laver sit eget netværk. Layer two lægger sig op ad et andet netværk
+- FUD - Fear uncertainity doubts
 
